@@ -1,0 +1,24 @@
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.MainScreen.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Sales.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Quotes.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Customers.resources
+C:\Projects\SmallBusinessManager\MainApplication\bin\Debug\SBM.Business.dll
+C:\Projects\SmallBusinessManager\MainApplication\bin\Debug\SBM.Core.dll
+C:\Projects\SmallBusinessManager\MainApplication\bin\Debug\SBM.Business.pdb
+C:\Projects\SmallBusinessManager\MainApplication\bin\Debug\SBM.Core.pdb
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Products.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Providers.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Parts.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.About.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.QuoteStats.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.SaleStats.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Statistics.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.Admin.resources
+C:\Projects\SmallBusinessManager\MainApplication\bin\Debug\Small Business Manager.exe
+C:\Projects\SmallBusinessManager\MainApplication\bin\Debug\Small Business Manager.pdb
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\Small Business Manager.exe
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\Small Business Manager.pdb
+C:\Projects\SmallBusinessManager\MainApplication\obj\Debug\MainApplication.License.resources

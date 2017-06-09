@@ -1,0 +1,5 @@
+C:\Projects\SmallBusinessManager\SBM.Core\bin\Debug\SBM.Core.dll
+C:\Projects\SmallBusinessManager\SBM.Core\bin\Debug\SBM.Core.pdb
+C:\Projects\SmallBusinessManager\SBM.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SmallBusinessManager\SBM.Core\obj\Debug\SBM.Core.dll
+C:\Projects\SmallBusinessManager\SBM.Core\obj\Debug\SBM.Core.pdb

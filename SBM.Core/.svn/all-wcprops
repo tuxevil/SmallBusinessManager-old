@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core
+END
+ClassDiagram.cd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Core/ClassDiagram.cd
+END
+Entity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/Entity.cs
+END
+PartByProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/PartByProvider.cs
+END
+BasicEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/BasicEntity.cs
+END
+Classes.cd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/Classes.cd
+END
+Product.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/Product.cs
+END
+Sale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Core/Sale.cs
+END
+BasicTransaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Core/BasicTransaction.cs
+END
+PartForSubProduct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/PartForSubProduct.cs
+END
+SubProduct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/SubProduct.cs
+END
+Provider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/Provider.cs
+END
+BasicInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/BasicInfo.cs
+END
+Quote.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Core/Quote.cs
+END
+Customer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/Customer.cs
+END
+SBM.Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/SBM.Core.csproj
+END
+Part.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/Part.cs
+END
+SubProductForTransaction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Core/SubProductForTransaction.cs
+END

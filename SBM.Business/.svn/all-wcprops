@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Business
+END
+StatisticController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/realware-sbm/!svn/ver/2/SmallBusinessManager/trunk/SBM.Business/StatisticController.cs
+END
+SubProductForTransactionController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/realware-sbm/!svn/ver/9/SmallBusinessManager/trunk/SBM.Business/SubProductForTransactionController.cs
+END
+BaseController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/realware-sbm/!svn/ver/13/SmallBusinessManager/trunk/SBM.Business/BaseController.cs
+END
+PartByProviderController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/realware-sbm/!svn/ver/9/SmallBusinessManager/trunk/SBM.Business/PartByProviderController.cs
+END
+ProductController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/realware-sbm/!svn/ver/9/SmallBusinessManager/trunk/SBM.Business/ProductController.cs
+END
+SaleController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Business/SaleController.cs
+END
+MainController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/realware-sbm/!svn/ver/12/SmallBusinessManager/trunk/SBM.Business/MainController.cs
+END
+PartForSubProductController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/realware-sbm/!svn/ver/9/SmallBusinessManager/trunk/SBM.Business/PartForSubProductController.cs
+END
+ProviderController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/realware-sbm/!svn/ver/11/SmallBusinessManager/trunk/SBM.Business/ProviderController.cs
+END
+SubProductController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Business/SubProductController.cs
+END
+CryptographyController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Business/CryptographyController.cs
+END
+QuoteController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/realware-sbm/!svn/ver/4/SmallBusinessManager/trunk/SBM.Business/QuoteController.cs
+END
+CustomerController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/realware-sbm/!svn/ver/7/SmallBusinessManager/trunk/SBM.Business/CustomerController.cs
+END
+SBM.Business.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/realware-sbm/!svn/ver/7/SmallBusinessManager/trunk/SBM.Business/SBM.Business.csproj
+END
+PartController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/realware-sbm/!svn/ver/9/SmallBusinessManager/trunk/SBM.Business/PartController.cs
+END

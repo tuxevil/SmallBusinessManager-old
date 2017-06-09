@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SBM.Core.BasicEntity">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>BasicEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.SubProductForTransaction">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAA=</HashCode>
+      <FileName>SubProductForTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.BasicInfo">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAQAAIQAAAAEAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>BasicInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.BasicTransaction">
+    <Position X="21" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAEQAAAhAAAAIAAAAAAAQAAAAAABQAAACUAAAAgAAAA=</HashCode>
+      <FileName>BasicTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Customer">
+    <Position X="2" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAACABAAAgAAAAAEAAAAAAAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Entity">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Part">
+    <Position X="17.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Part.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.PartByProvider">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartByProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.PartForProduct">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>PartForProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Product">
+    <Position X="13.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Provider">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Provider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Quote">
+    <Position X="20" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAIAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.Sale">
+    <Position X="22.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SBM.Core.SubProduct">
+    <Position X="15.5" Y="6.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

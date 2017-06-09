@@ -1,0 +1,24 @@
+C:\Projects\SmallBusinessManager\MainApplication\bin\Release\SBM.Business.dll
+C:\Projects\SmallBusinessManager\MainApplication\bin\Release\SBM.Core.dll
+C:\Projects\SmallBusinessManager\MainApplication\bin\Release\SBM.Business.pdb
+C:\Projects\SmallBusinessManager\MainApplication\bin\Release\SBM.Core.pdb
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.About.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Customers.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.MainScreen.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Parts.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Products.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Properties.Resources.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Providers.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Quotes.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.QuoteStats.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Sales.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.SaleStats.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Statistics.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.csproj.GenerateResource.Cache
+C:\Projects\SmallBusinessManager\MainApplication\bin\Release\Small Business Manager.exe
+C:\Projects\SmallBusinessManager\MainApplication\bin\Release\Small Business Manager.pdb
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.Admin.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\MainApplication.License.resources
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\Small Business Manager.exe
+C:\Projects\SmallBusinessManager\MainApplication\obj\Release\Small Business Manager.pdb
